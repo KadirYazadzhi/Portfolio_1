@@ -292,6 +292,13 @@ body {
 .navbar .btn {
   background-color: var(--orange-soda);
   margin-block-start: 15px;
+  border: 3px solid crimson;
+}
+
+
+.navbar .btn:hover {
+  background-color: transparent;
+  box-shadow: 1px 1px 10px crimson;
 }
 
 
@@ -987,7 +994,7 @@ textarea.contact-input {
   .abs-icon-1 {
     top: 50px;
     left: -120px;
-    background-color: var(--bluetiful);
+    background-color: #ea5900;
   }
 
   .abs-icon-2 {
@@ -999,7 +1006,7 @@ textarea.contact-input {
   .abs-icon-3 {
     bottom: -40px;
     left: 250px;
-    background-color: var(--rufous);
+    background-color: var(--bluetiful);
   }
 
 
