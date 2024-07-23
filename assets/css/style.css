@@ -26,7 +26,7 @@
   --midnight-blue: hsl(231, 83%, 25%);
   --minion-yellow: hsl(50, 100%, 64%);
   --independence: hsl(225, 24%, 27%);
-  --orange-soda: hsl(7, 96%, 61%);
+  --orange-soda: hsl(348, 83%, 47%);
   --space-cadet: hsl(243, 23%, 18%);
   --fiery-rose: hsl(353, 83%, 65%);
   --klein-blue: hsl(230, 80%, 39%);
@@ -314,6 +314,14 @@ body {
   min-height: 100vh;
   display: grid;
   place-items: center;
+}
+
+#about-btn:hover {
+  background-color: crimson;
+}
+
+.btn-primary.blue.transparent {
+  background-color: transparent;
 }
 
 .image-hero {

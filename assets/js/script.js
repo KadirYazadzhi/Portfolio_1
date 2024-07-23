@@ -46,3 +46,17 @@ window.addEventListener("scroll", function () {
     backTopBtn.classList.remove("active");
   }
 });
+
+
+
+
+/** Make header button for "Get a Quote" transparent when button for
+ * "About me" is hover and add color where is not hover **/
+
+document.getElementById('about-btn').addEventListener('mouseover', function() {
+  document.querySelector('.btn-primary.blue').classList.add('transparent');
+});
+
+document.getElementById('about-btn').addEventListener('mouseout', function() {
+  document.querySelector('.btn-primary.blue').classList.remove('transparent');
+});
