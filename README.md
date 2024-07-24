@@ -68,7 +68,7 @@ This project was built using these technologies:
 
 
 ## ⚙️ Getting Started
-Visit the following link to view: https://kadiryazadzhi.github.io/portfolio/
+Visit the following link to view: https://kadiryazadzhi.github.io/Portfolio_1/
 
 
 ## 🙏 Show your support
