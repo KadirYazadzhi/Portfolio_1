@@ -504,12 +504,8 @@ body {
 
 
 
-/*-----------------------------------*\
-  #CONTACT
-\*-----------------------------------*/
-
 .contact-card {
-  background-color: var(--midnight-blue);
+  background-color: #00072d;
   padding: 50px 25px;
   border-radius: var(--radius-20);
 }
@@ -555,11 +551,12 @@ textarea.contact-input {
   padding: 10px;
   border-radius: var(--radius-5);
   transition: var(--transition-2);
+  border: 3px solid crimson;
 }
 
 .btn-submit:is(:hover, :focus) {
-  background-color: var(--white);
-  color: var(--black);
+  background-color: transparent;
+  box-shadow: 1px 1px 15px crimson;
 }
 
 .contact-item {
