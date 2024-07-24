@@ -33,7 +33,7 @@
 I created a Template for a Portfolio Website that allows users to showcase their work and skills in a professional manner. The template features a clean, modern design and is fully responsive, ensuring it looks great on all devices. It includes sections for projects, skills, and contact information, making it easy for users to present their portfolio effectively.
 
 
-## Why do you need a portfolio? ☝️
+## ✨Why do you need a portfolio? ☝️
 
 - Professional way to showcase your work
 - Increases your visibility and online presence
@@ -48,10 +48,19 @@ This project was built using these technologies:
 - WebStorm
 
 
+## 📚 Sections
+- Home
+- Home
+- About
+- Skills
+- Portfolio
+- Contact
+
+
 ## ⚡ Features
 **📖 Animations** <br>
 
-**🎨 Light and Dark mode theme** <br>
+**🎨 Modern UI Design + Reveal Animations** <br>
 
 **📱 Fully Responsive** <br>
 
