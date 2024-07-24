@@ -378,12 +378,6 @@ body {
 
 
 
-
-
-/*-----------------------------------*\
-  #ABOUT
-\*-----------------------------------*/
-
 .abs-img,
 .abs-icon { display: none; }
 
@@ -403,11 +397,6 @@ body {
 
 
 
-
-
-/*-----------------------------------*\
-  #PORTFOLIO
-\*-----------------------------------*/
 
 .portfolio .section-title { margin-block-end: 18px; }
 
@@ -456,13 +445,6 @@ body {
   font-size: 1.6rem;
 }
 
-
-
-
-
-/*-----------------------------------*\
-  #SKILLS
-\*-----------------------------------*/
 
 .skills .section-title { margin-block-end: 20px; }
 
@@ -1072,4 +1054,11 @@ textarea.contact-input {
   .copyright,
   .footer-list { margin-inline: 0; }
 
+}
+
+
+.elem:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+  transition: 0.4s;
 }
